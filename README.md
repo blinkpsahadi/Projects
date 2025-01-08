@@ -16,7 +16,7 @@ These are all the projects I, Amira HADID, created or have been a part of
 Usable on Google Colab or on Jupyter Notebook, feel free to try it on any other IDE in which you would just have to copy paste the code of your interest.
 
 ## Usage
-Download or copy paste.
+Download or copy paste, and make sure to use your API Key and a correct email address.
 
 ## Contributing
 If you want to contribute to one of these project, feel free to add your suggestions.
